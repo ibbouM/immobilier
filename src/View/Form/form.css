@@ -1,0 +1,33 @@
+
+
+.card {
+  width: 350px;
+}
+
+.textcolor{
+    color:#000000;
+    font-weight: bold;
+}
+
+.color{
+  color: #09c;
+}
+
+.button{
+
+  background-color: #70de5d;
+  color: #fff;
+  padding: 1%;
+  border: 2px solid #70de5d ;
+  border-radius: 2px;
+  word-spacing: .2em;
+  margin-top: 2rem;
+  height: 2.40rem;
+  width: 10rem;
+
+}
+
+.h5{
+  color:	#FF0000;
+  font-size:0.8rem;
+}
